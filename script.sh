@@ -20,7 +20,7 @@ cp -r ./kitty $HOME/.config/
 echo "kitty conf OK"
 
 # zsh
-cp ./zsh/.zsh* $HOME/
+cp ./.zsh* $HOME/
 echo "zsh conf OK"
 
 # vim
